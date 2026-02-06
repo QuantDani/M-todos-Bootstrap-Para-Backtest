@@ -369,7 +369,7 @@ plt.show()
 
 
     
-![png](main_files/main_10_1.png)
+![png](main_10_1.png)
     
 
 
